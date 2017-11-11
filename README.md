@@ -1,13 +1,7 @@
-# $anity CSCI 310 Semester Project
-### Team 22
-* Brooks Klinker
-* Jordan Coppert
-* Katie Wasserman
-* Nick Kaimakis
-* Will Durkee
+# Lucre CSCI 310 Semester Project
 
-# $anity: making spending simple
-$anity is a mobile iOS application that enables users to track their spending with customizable budgets and categories. By keeping a log of manually entered transactions in a user friendly way, people can be more aware of the money they have and spend on a regular basis. As college students and young adults, we often have trouble keeping track of finances in the same way that previous generations did(i.e. checkbooks and written logs). $anity fills the need for a mobile application that tracks and logs spending data in a natural and comprehensible format. Categories, budgets, and graphs make it easy to see where your money is going and how much money you can still spend, while notifying you when you are nearing and when you exceed your budget limits. 
+# Lucre: making spending simple
+Lucre is a mobile iOS application that enables users to track their spending with customizable budgets and categories. By keeping a log of manually entered transactions in a user friendly way, people can be more aware of the money they have and spend on a regular basis. As college students and young adults, we often have trouble keeping track of finances in the same way that previous generations did(i.e. checkbooks and written logs). $anity fills the need for a mobile application that tracks and logs spending data in a natural and comprehensible format. Categories, budgets, and graphs make it easy to see where your money is going and how much money you can still spend, while notifying you when you are nearing and when you exceed your budget limits. 
 
 Preparation:
 ------------
